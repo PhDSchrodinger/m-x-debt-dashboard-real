@@ -1,0 +1,125 @@
+﻿columna,descripcion,origen_principal
+year,Año calendario. Clave única anual.,mexico_economic_master_base.csv
+gdp_nominal_mxn,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+gdp_real_2018_mxn,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+gdp_deflator_index,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+inpc_index,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+inflation_annual_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+inflation_accumulated_since_1990_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+population,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+gdp_nominal_per_capita_mxn,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+gdp_real_per_capita_2018_mxn,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+public_debt_total_mxn,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+public_debt_internal_mxn,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+public_debt_external_mxn,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+public_debt_external_usd,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+debt_to_gdp_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+debt_per_capita_mxn,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+debt_yoy_growth_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+real_public_debt_2018_mxn,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+exchange_rate_fix_mxn_usd_avg,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+international_reserves_usd,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+exports_usd,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+imports_usd,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+trade_balance_usd,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+remittances_usd,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+fdi_usd,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+domestic_investment_mxn,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+unemployment_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+poverty_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+moderate_poverty_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+extreme_poverty_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+vulnerable_social_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+vulnerable_income_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+nonpoor_nonvulnerable_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+middle_class_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+rich_or_high_class_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+president,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+party,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+sexenio,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+crisis_event,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+source_flags,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+validation_notes,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+dataset_version,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+fecha_corte_dataset,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+presidente_principal_anio,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+partido_principal_anio,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+periodo_presidencial_principal,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+presidente_fin_anio,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+partido_fin_anio,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+cambio_presidencial_en_anio,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+hitos_anio,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+numero_hitos,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+hay_hitos,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+inpc_promedio_anual,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+inpc_cierre_anual,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+inflacion_dic_dic_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+inflacion_promedio_anual_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+desempleo_sa_promedio_anual_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+desempleo_sa_cierre_anual_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+desempleo_sa_ultimo_valor_disponible_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+desempleo_trimestral_promedio_total_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+es_anio_mundial,Indicador 1/0 de año de Copa del Mundo.,mexico_futbol_economia_1930_2026.csv
+mundial_edicion_numero,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_continente_sede,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_sede,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_estatus_mexico,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_participo,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_anfitrion,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_fase_alcanzada,Fase alcanzada por México o estatus equivalente.,mexico_futbol_economia_1930_2026.csv
+mundial_fase_orden,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_posicion_final,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_partidos,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_ganados,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_empatados,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_perdidos,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_goles_favor,Goles anotados por México en la edición.,mexico_futbol_economia_1930_2026.csv
+mundial_goles_contra,Goles recibidos por México en la edición.,mexico_futbol_economia_1930_2026.csv
+mundial_diferencia_goles,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_rendimiento_puntos_pct,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_porcentaje_victorias,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_resultado_resumen,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_eliminado_por,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_siguiente_rival,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_detalle,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+mundial_datos_provisionales,Indicador 1/0; datos aún sujetos a actualización.,mexico_futbol_economia_1930_2026.csv
+mundial_fecha_actualizacion,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+fuente_inpc,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+fuente_desempleo_mensual,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+fuente_desempleo_trimestral,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+fuente_presidentes_hitos,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+fuente_presidentes_enriquecida,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+fuente_mundiales_historico,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+fuente_mundial_2026,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_futbol_economia_1930_2026.csv
+fuentes_disponibles_anio,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+notas_calidad_datos,Columna conservada del maestro base o de la fuente consolidada; consultar reporte de fuentes.,mexico_economic_master_base.csv
+president_original,Valor de presidente previo a integrar la fuente enriquecida.,mexico_economic_master_base.csv
+party_original,Valor de partido previo a integrar la fuente enriquecida.,mexico_economic_master_base.csv
+sexenio_original,Valor de periodo presidencial previo a integrar la fuente enriquecida.,mexico_economic_master_base.csv
+crisis_event_original,Hito o crisis previo a integrar la fuente nueva.,mexico_economic_master_base.csv
+unemployment_pct_original,Desempleo previo a priorizar la serie mensual desestacionalizada.,mexico_economic_master_base.csv
+fdi_mxn,IED convertida de USD a MXN con tipo de cambio promedio anual.,Cálculo ETL v3
+exports_mxn,Exportaciones convertidas a MXN.,Cálculo ETL v3
+imports_mxn,Importaciones convertidas a MXN.,Cálculo ETL v3
+remittances_mxn,Remesas convertidas a MXN.,Cálculo ETL v3
+real_public_debt_internal_2018_mxn,Deuda interna deflactada a pesos de 2018.,Cálculo ETL v3
+real_public_debt_external_2018_mxn,Deuda externa en MXN deflactada a pesos de 2018.,Cálculo ETL v3
+domestic_investment_real_2018_mxn,Inversión interna deflactada a pesos de 2018.,Cálculo ETL v3
+fdi_real_2018_mxn,IED convertida a MXN y deflactada a pesos de 2018.,Cálculo ETL v3
+exports_real_2018_mxn,Exportaciones en pesos constantes de 2018.,Cálculo ETL v3
+imports_real_2018_mxn,Importaciones en pesos constantes de 2018.,Cálculo ETL v3
+remittances_real_2018_mxn,Remesas en pesos constantes de 2018.,Cálculo ETL v3
+investment_total_mxn,Inversión interna más IED convertida a MXN.,Cálculo ETL v3
+investment_total_real_2018_mxn,Inversión total en pesos constantes de 2018.,Cálculo ETL v3
+debt_per_capita_real_2018_mxn,Deuda pública real por habitante.,Cálculo ETL v3
+dashboard_master_version,Versión del maestro integrado del dashboard.,Cálculo ETL v3
+dashboard_merge_note,Nota de integración y alcance del maestro.,Cálculo ETL v3
+mundial_fases_superadas,Número de transiciones de fase completadas por México en el Mundial.,cálculo v4
+mundial_puntos_goles,Goles a favor menos goles en contra.,cálculo v4
+mundial_puntos_victorias,Dos puntos por cada victoria.,cálculo v4
+mundial_puntos_fases,Tres puntos por cada fase superada.,cálculo v4
+mundial_puntos_eliminacion,Cuatro puntos por cada victoria en eliminación directa.,cálculo v4
+mundial_bonus_rival_fuerte,0.3 por victoria ante rival fuerte según títulos o historial top-4 previo.,cálculo v4
+mundial_penalizacion_rival_debil,-0.2 por derrota ante rival con menos de dos apariciones previas y sin victorias KO.,cálculo v4
+mundial_score_total,Calificación futbolística total del torneo.,cálculo v4
+mundial_score_por_partido,Calificación total dividida entre partidos; recomendada para comparar formatos.,cálculo v4

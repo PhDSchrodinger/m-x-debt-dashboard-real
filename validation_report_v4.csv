@@ -1,0 +1,9 @@
+﻿prueba,resultado,detalle
+python_compile,PASS,"app, modeling y update_project_data compilaron"
+smoke_test,PASS,"estructura, años, hitos y score válidos"
+streamlit_apptest_default,PASS,0 excepciones; 7 pestañas
+model_ols,PASS,modelo predeterminado ejecutó
+model_elasticnet,PASS,0 excepciones
+model_gradient_boosting,PASS,0 excepciones
+model_bayesian_ridge,PASS,0 excepciones
+projection_continuity,PASS,crecimiento/variación reconstruyen desde último valor completo

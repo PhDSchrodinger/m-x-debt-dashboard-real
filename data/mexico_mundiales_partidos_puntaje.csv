@@ -1,0 +1,65 @@
+﻿anio,fecha,rival,fase,goles_mexico,goles_rival,resultado_mexico,eliminacion_directa,victoria_eliminacion_directa,rival_apariciones_previas,rival_titulos_previos,rival_top4_previos,rival_victorias_ko_previas,rival_fuerte_objetivo,rival_debil_objetivo,bonus_rival_fuerte,penalizacion_rival_debil,fuente
+1930,1930-07-13,France,group stage,1,4,P,0,0,0,0,0,0,0,1,0.0,-0.2,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1930,1930-07-16,Chile,group stage,0,3,P,0,0,0,0,0,0,0,1,0.0,-0.2,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1930,1930-07-19,Argentina,group stage,3,6,P,0,0,0,0,0,0,0,1,0.0,-0.2,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1950,1950-06-24,Brazil,group stage,0,4,P,0,0,3,0,1,3,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1950,1950-06-28,Yugoslavia,group stage,1,4,P,0,0,1,0,1,0,0,1,0.0,-0.2,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1950,1950-07-02,Switzerland,group stage,1,2,P,0,0,2,0,0,2,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1954,1954-06-16,Brazil,group stage,0,5,P,0,0,4,0,2,3,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1954,1954-06-19,France,group stage,2,3,P,0,0,3,0,0,1,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1958,1958-06-08,Sweden,group stage,0,3,P,0,0,3,0,2,2,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1958,1958-06-11,Wales,group stage,1,1,E,0,0,0,0,0,0,0,1,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1958,1958-06-15,Hungary,group stage,0,4,P,0,0,3,0,2,6,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1962,1962-05-30,Brazil,group stage,0,2,P,0,0,6,1,3,6,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1962,1962-06-03,Spain,group stage,0,1,P,0,0,2,0,1,1,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1962,1962-06-07,Czechoslovakia,group stage,3,1,G,0,0,4,0,1,4,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1966,1966-07-13,France,group stage,1,1,E,0,0,5,0,1,3,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1966,1966-07-16,England,group stage,0,2,P,0,0,4,0,0,0,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1966,1966-07-19,Uruguay,group stage,0,0,E,0,0,4,2,3,3,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1970,1970-05-31,Soviet Union,group stage,0,0,E,0,0,3,0,1,1,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1970,1970-06-07,El Salvador,group stage,4,0,G,0,0,0,0,0,0,0,1,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1970,1970-06-11,Belgium,group stage,1,0,G,0,0,4,0,0,0,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1970,1970-06-14,Italy,quarter-finals,1,4,P,1,0,6,2,2,8,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1978,1978-06-02,Tunisia,group stage,1,3,P,0,0,0,0,0,0,0,1,0.0,-0.2,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1978,1978-06-06,West Germany,group stage,0,6,P,0,0,8,2,6,12,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1978,1978-06-10,Poland,group stage,1,3,P,0,0,2,0,1,1,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1986,1986-06-03,Belgium,group stage,2,1,G,0,0,6,0,0,0,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1986,1986-06-07,Paraguay,group stage,1,1,E,0,0,3,0,0,0,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1986,1986-06-11,Iraq,group stage,1,0,G,0,0,0,0,0,0,0,1,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1986,1986-06-15,Bulgaria,round of 16,2,0,G,1,1,4,0,0,0,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1986,1986-06-21,West Germany,quarter-finals,0,0,P,1,0,10,2,7,13,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1994,1994-06-19,Norway,group stage,0,1,P,0,0,1,0,0,0,0,1,0.0,-0.2,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1994,1994-06-24,Republic of Ireland,group stage,2,1,G,0,0,1,0,0,1,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1994,1994-06-28,Italy,group stage,1,1,E,0,0,12,3,6,15,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1994,1994-07-05,Bulgaria,round of 16,1,1,P,1,0,5,0,0,0,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1998,1998-06-13,South Korea,group stage,3,1,G,0,0,4,0,0,0,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1998,1998-06-20,Belgium,group stage,2,2,E,0,0,9,0,1,2,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1998,1998-06-25,Netherlands,group stage,2,2,E,0,0,6,0,2,1,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+1998,1998-06-29,Germany,round of 16,1,2,P,1,0,13,3,9,21,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2002,2002-06-03,Croatia,group stage,1,0,G,0,0,1,0,1,3,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2002,2002-06-09,Ecuador,group stage,2,1,G,0,0,0,0,0,0,0,1,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2002,2002-06-13,Italy,group stage,1,1,E,0,0,14,3,7,19,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2002,2002-06-17,United States,round of 16,0,2,P,1,0,6,0,1,0,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2006,2006-06-11,Iran,group stage,3,1,G,0,0,2,0,0,0,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2006,2006-06-16,Angola,group stage,0,0,E,0,0,0,0,0,0,0,1,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2006,2006-06-21,Portugal,group stage,1,2,P,0,0,3,0,1,2,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2006,2006-06-24,Argentina,round of 16,1,2,P,1,0,13,2,4,10,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2010,2010-06-11,South Africa,group stage,1,1,E,0,0,2,0,0,0,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2010,2010-06-17,France,group stage,2,0,G,0,0,12,1,5,13,1,0,0.3,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2010,2010-06-22,Uruguay,group stage,0,1,P,0,0,10,2,4,4,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2010,2010-06-27,Argentina,round of 16,1,3,P,1,0,14,2,4,11,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2014,2014-06-13,Cameroon,group stage,1,0,G,0,0,6,0,0,1,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2014,2014-06-17,Brazil,group stage,0,0,E,0,0,19,5,10,27,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2014,2014-06-23,Croatia,group stage,3,1,G,0,0,3,0,1,3,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2014,2014-06-29,Netherlands,round of 16,1,2,P,1,0,9,0,4,6,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2018,2018-06-17,Germany,group stage,1,0,G,0,0,18,4,13,35,1,0,0.3,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2018,2018-06-23,South Korea,group stage,2,1,G,0,0,9,0,1,2,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2018,2018-06-27,Sweden,group stage,0,3,P,0,0,11,0,4,7,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2018,2018-07-02,Brazil,round of 16,0,2,P,1,0,20,5,11,29,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2022,2022-11-22,Poland,group stage,0,0,E,0,0,8,0,2,2,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2022,2022-11-26,Argentina,group stage,0,2,P,0,0,17,2,5,15,1,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2022,2022-11-30,Saudi Arabia,group stage,2,1,G,0,0,5,0,0,0,0,0,0.0,0.0,Fjelstul World Cup Database v1.2.0 (CC-BY-SA 4.0) | https://github.com/jfjelstul/worldcup
+2026,2026-06-11,South Africa,group stage,2,0,G,0,0,3,0,0,0,0,0,0.0,0.0,FIFA/Reuters/OpenFootball; corte 2026-07-03 (provisional) | https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
+2026,2026-06-18,South Korea,group stage,1,0,G,0,0,11,0,1,2,0,0,0.0,0.0,FIFA/Reuters/OpenFootball; corte 2026-07-03 (provisional) | https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
+2026,2026-06-24,Czechia,group stage,3,0,G,0,0,9,0,2,7,1,0,0.3,0.0,FIFA/Reuters/OpenFootball; corte 2026-07-03 (provisional) | https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
+2026,2026-06-30,Ecuador,round of 32,2,0,G,1,1,4,0,0,0,0,0,0.0,0.0,FIFA/Reuters/OpenFootball; corte 2026-07-03 (provisional) | https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026

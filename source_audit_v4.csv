@@ -1,0 +1,7 @@
+﻿archivo,rol,estado,ruta_proyecto
+mexico_economic_master_base.csv,Maestro macroeconómico base,integrado,data/mexico_economic_master_base.csv
+mexico_futbol_economia_1930_2026.csv,Historia anual y calificación futbolística,integrado,data/mexico_futbol_economia_1930_2026.csv
+mexico_mundiales_partidos_puntaje.csv,Partidos de México y ajuste objetivo por rival,integrado,data/mexico_mundiales_partidos_puntaje.csv
+hitos_mexico_1990_2026.csv,"Crisis, devaluaciones, pandemias y otros hitos",integrado,data/hitos_mexico_1990_2026.csv
+wdi_country_indicators.csv,Comparación internacional WDI,integrado,data/wdi_country_indicators.csv
+presidentes_mexico_hitos.csv,Presidentes e hitos aportados por el usuario,integrado,data/presidentes_mexico_hitos.csv
