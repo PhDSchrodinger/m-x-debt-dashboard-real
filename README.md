@@ -277,7 +277,7 @@ Para la deuda pública se emplea el indicador **Central Government Debt (% of GD
 
 # 👨‍💻 Autor
 
-**Alain Medel**
+**Alain Medel Mejía**
 
 Ingeniero en Electrónica • Maestro en Física Aplicada • Ciencia de Datos • Inteligencia Artificial • Energías Renovables
 
