@@ -1,0 +1,24 @@
+variable_dashboard,column_csv,unidad,comentario
+PIB,gdp_nominal_mxn,MXN corrientes,Producto Interno Bruto nominal
+DEUDA TOTAL,public_debt_total_mxn,MXN corrientes,Deuda pública total
+DEUDA INTERNA,public_debt_internal_mxn,MXN corrientes,Deuda pública interna
+DEUDA EXTERNA,public_debt_external_mxn,MXN corrientes,Deuda pública externa convertida a pesos
+INFLACIÓN,inflation_annual_pct,% anual,Inflación anual
+POBLACIÓN,population,personas,Población total
+EXPORTACIONES,exports_usd,USD,Exportaciones
+IMPORTACIONES,imports_usd,USD,Importaciones
+REMESAS,remittances_usd,USD,Remesas
+TIPO DE CAMBIO,exchange_rate_fix_mxn_usd_avg,MXN/USD,Tipo de cambio promedio anual
+INVERSIÓN EXTRANJERA,fdi_usd,USD,IED
+INVERSIÓN INTERNA,domestic_investment_mxn,MXN corrientes,Inversión interna
+INVERSIÓN TOTAL,investment_total_mxn,MXN corrientes,Inversión interna + IED en MXN
+INFLACIÓN ACUMULADA,inflation_accumulated_since_1990_pct,% acumulado,Inflación acumulada desde 1990
+DEFLACTOR DEL PIB,gdp_deflator_index,índice,Deflactor implícito del PIB
+PIB PERCÁPITA REAL,gdp_real_per_capita_2018_mxn,MXN de 2018 por persona,PIB real per cápita
+POBRES,poverty_pct,% población,Pobreza
+POBREZA EXTREMA,extreme_poverty_pct,% población,Pobreza extrema
+DESIGUALDAD,gini_index,índice,Reservado; requiere fuente de Gini u otra medida
+CLASE MEDIA,middle_class_pct,% población,Depende de fuente cargada
+RICOS / CLASE ALTA,rich_or_high_class_pct,% población,Depende de fuente cargada
+CLASE MEDIA + RICOS,middle_and_rich_pct,% población,Derivado si existen ambas columnas
+DEUDA / PIB,debt_to_gdp_pct,% del PIB,Deuda total como porcentaje del PIB
